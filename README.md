@@ -3,10 +3,13 @@ A simple tutorial for installing QEMU/KVM on pretty much any Linux distribution.
 
 *Step 1; Base Installation:*
 Run the following commands according to your distribution:
+
 **Arch**
 ```sudo pacman -S qemu-kvm libvirt virt-install bridge-utils virt-manager libvirt-devel virt-top libguestfs-tools guestfs-tools```
+
 **Fedora** 
 ``` sudo dnf install qemu-kvm libvirt virt-install bridge-utils virt-manager libvirt-devel virt-top libguestfs-tools guestfs-tools```
+
 **Debian**
 ```sudo apt install qemu-kvm libvirt virt-install bridge-utils virt-manager libvirt-devel virt-top libguestfs-tools guestfs-tools```
 
