@@ -16,7 +16,6 @@ Run the following commands according to your distribution:
 
 *Step 2; Start & Enable libvirtd*
 
-**Commands for systemd Distributions** 
 >Arch, Fedora, and Debian all use systemd
 
 ```sudo systemctl start libvirtd```
