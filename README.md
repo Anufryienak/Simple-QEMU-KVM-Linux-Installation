@@ -2,6 +2,7 @@
 A simple tutorial for installing QEMU/KVM with GUI on pretty much any Linux distribution. Commands for the installation will be posted for the following: Arch, Fedora, and Debian.
 
 *Step 1; Base Installation:*
+
 Run the following commands according to your distribution:
 
 **Arch**
